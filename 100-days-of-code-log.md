@@ -45,6 +45,33 @@
 
 ---
 
+##　 github にリポジトリ作成！
+
+### Day 008:
+
+**Project:**
+
+- Udemy [Modern React with Redux](https://www.udemy.com/course/react-redux/)
+  - ReduxForm を使ったフォーム作成の流れ
+- [Git： もう怖くない Git！チーム開発で必要な Git を完全マスター](https://www.udemy.com/course/unscared_git/)
+  - §4-§5#35
+- GitHub に 100DaysOfCode 用のリポジトリ作成
+
+**Progress:chart_with_upwards_trend::**
+
+- ✅ReduxForm 使うことで、store-component 間のやりとりが自動化される
+- ✅formProps というのを受け取り、それに必要事項を記入して提出すると処理してくれるイメージか？
+- ✅ フォーム送信時には handleSubmit というのを呼び出す必要あり
+- ✅ バリデーション関数作ったら、reduxForm ヘルパーに渡す必要あり(connect みたいなやつ)
+- ✅ エラーメッセージは meta.error で出力できる
+- ✅ フォーカスが当たったら... >> meta.touched
+
+**Thoughts:**
+
+- リポジトリ出来たので、学習報告を毎日していこう
+
+---
+
 ## GoogleAuth の復習
 
 ### Day 007: 2020/01/30 Wed
