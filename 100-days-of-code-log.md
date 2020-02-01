@@ -26,9 +26,9 @@
 
 ---
 
-##
+## a
 
-### Day 001:
+### Day 009:
 
 **Project:**
 
@@ -42,10 +42,37 @@
 
 -
 -->
+---
+
+## §20長いな :cry:
+
+### Day 009:
+
+**Project:**
+
+- Udemy [Modern React with Redux](https://www.udemy.com/course/react-redux/)
+- [イラスト図解式 この一冊で全部わかる Web 技術の基本 Kindle 版] 少し
+
+**Progress:chart_with_upwards_trend::**
+
+- ✅REST Conventions(REST-ful API?)について
+  - こうしたい時はこう書け的な慣習・ルール？
+- ✅JsonServer立て方
+- ✅ReduxFormとconnect 両立させる書き方
+- ✅コマンド:ファイルの中身出力するには？　>>　cat db.json
+- ✅axios書き方--復習した
+
+**Thoughts:**
+
+- 動画を再生速度上げて２回目の視聴をすると、理解が進む感じ
+- 理解・コード写し・全体構築手順　いっぺんにやりすぎない方が良さそう
+- twitterでの報告もやっていこう
+  - twitterだと、ごちゃごちゃ書くのは向いてなさそう
+  - その日の一言感想とgithubへのリンク貼っていくのが良さそうかな
 
 ---
 
-##　 github にリポジトリ作成！
+## github にリポジトリ作成！
 
 ### Day 008:
 
