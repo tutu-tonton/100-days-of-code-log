@@ -26,9 +26,9 @@
 
 ---
 
-## a
+## 理解できない部分は、わかるところだけつまみ食い
 
-### Day 009:
+### Day 011: 2020/02/02
 
 **Project:**
 
@@ -42,6 +42,34 @@
 
 -
 -->
+
+---
+
+## 理解できない部分は、わかるところだけつまみ食い
+
+### Day 011: 2020/02/02
+
+**Project:**
+
+- Udemy [Modern React with Redux](https://www.udemy.com/course/react-redux/)
+- Udemy [Git： もう怖くない Git！チーム開発で必要な Git を完全マスター](https://www.udemy.com/course/unscared_git/)
+
+**Progress:chart_with_upwards_trend::**
+
+- ✅ProgrammaticNavigation
+- ✅RouterのhistoryObjectについて
+  -  ProgrammaticNavigationを実現するには、独自にhistoryObject作る
+- ❓URL-based selection
+  - よくわからない
+- ✅入力フォームに初期値入れたい
+  - ReduxFormからのinitialValues活用
+- ✅REST: putとpatchの違い
+
+**Thoughts:**
+
+- 難しくなってきた。わかる部分だけで進めていこう
+- ライブラリ？使う時は公式読むべきだ
+
 ---
 
 ## ストリーム作成して一覧を画面に出力するところまで
