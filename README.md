@@ -1,3 +1,5 @@
+# プログラミング初心者による100DaysOfCode:smile:
+
 ## Challenge & Commitment
 
 **Commitment:** _毎日、プログラミングの学習！🖥️_
@@ -22,6 +24,10 @@
   - Remember Playback Speed にチェック
     - 新しいページに移動しても、前回ページの設定が引き継がれる
 
+## 実行予定
+
+## 実行済
+
 <!--
 
 ---
@@ -42,6 +48,33 @@
 
 -
 -->
+
+
+---
+
+## ReactPortalの学習
+
+### Day 012: 2020/02/03
+
+**Project:**
+
+- Udemy [Modern React with Redux](https://www.udemy.com/course/react-redux/)
+- Udemy [Git： もう怖くない Git！チーム開発で必要な Git を完全マスター](https://www.udemy.com/course/unscared_git/)
+- [イラスト図解式 この一冊で全部わかる Web 技術の基本 Kindle 版]
+
+**Progress:chart_with_upwards_trend::**
+
+- ✅ReactPortalについて
+  - z-index使って親要素より上/手前に表示させたい場合？　モーダル・popup
+- ✅イベント伝播の止め方
+  - e.stopPropagation()
+- ✅Fragmentとは
+  - [React.Fragment の活用タイミング](https://qiita.com/bayarea-techblog/items/3c43c0fb545b570ef9a0)
+
+**Thoughts:**
+
+- 動画見る>>わからない部分はQiitaで概要掴む>>公式ドキュメント読む　の流れを作りたい
+
 
 ---
 
