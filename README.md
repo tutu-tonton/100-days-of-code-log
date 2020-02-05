@@ -17,11 +17,10 @@
 ## 学習の進め方
 
 - 主に Udemy の英語講座を進めていく。以下のやり方で字幕で学習しています。
-- [英語字幕しかない講座を日本語字幕にして勉強する方法を解説する【Udemy セールとおすすめ講座】
+  - [英語字幕しかない講座を日本語字幕にして勉強する方法を解説する【Udemy セールとおすすめ講座】
   ](https://kaleido01.com/udemy-zimaku/)
-- 動画の再生スピード
-  - chrome 拡張　 VideoSpeedController
-  - Remember Playback Speed にチェック
+  - 動画の再生スピード: chrome 拡張　 VideoSpeedController
+    - Remember Playback Speed にチェック
     - 新しいページに移動しても、前回ページの設定が引き継がれる
 
 ## 実行予定
@@ -32,7 +31,7 @@
 
 ---
 
-## 理解できない部分は、わかるところだけつまみ食い
+## 
 
 ### Day 011: 2020/02/02
 
@@ -48,6 +47,28 @@
 
 -
 -->
+
+
+---
+
+## ReactContextの学習
+
+### Day 013: 2020/02/04
+
+**Project:**
+
+- Udemy [Modern React with Redux](https://www.udemy.com/course/react-redux/)
+
+**Progress:chart_with_upwards_trend::**
+
+- ✅Contextへのデータの流し方2種類、データの取り出し方2種類あり
+- ✅RouterでのSwitch
+  - URL-basedSelectionだと変数部分が正規表現的にヒットしてしまうので、Switchで囲む
+
+**Thoughts:**
+
+- Contextは確かにわかりやすくて便利だけど、データを渡すことしかできないのでReduxに代わるものではないよ、というお話
+
 
 
 ---
@@ -104,6 +125,7 @@
 - ライブラリ？使う時は公式読むべきだ
 
 ---
+<details><summary>Day001-Day010</summary>
 
 ## ストリーム作成して一覧を画面に出力するところまで
 
@@ -331,6 +353,8 @@
 - 最初は何やってんだ？？？って感じだったが、復習する度に新たな発見がある感じ。
 - ミニマム構成での全体処理の流れを確認・復習すること
 
+</details>
+
 ---
 
 ## DAY 000
@@ -352,3 +376,7 @@
   ](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-JA.md)
 - [The 2018 React JS RoadMap
   ](https://hackernoon.com/the-2018-react-js-roadmap-4d0a43814c02)
+
+**ポートフォリオこんなの作るといいよ！**
+
+- ![画像](src/19915FF8-9203-4DB1-9E3A-946C7AA61D61.jpg)
