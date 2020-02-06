@@ -51,6 +51,31 @@
 
 ---
 
+## ReactHooks突入
+
+### Day 014: 2020/02/05
+
+**Project:**
+
+- Udemy [Modern React with Redux](https://www.udemy.com/course/react-redux/)
+
+**Progress:chart_with_upwards_trend::**
+
+- ✅Hooks-useState
+  - [Value, setValue] = useState(initialValue)
+- ✅Hooks-useEffect
+  - useEffect(func)
+  - 依存関係配列もサポートしている
+
+**Thoughts:**
+
+- hooks使って、APIリクエスト部分をパーツ化すると使いやすいしわかりやすくなる
+- 今日でこの講座は一通り視聴した。始めてから１ヶ月くらいかかった
+- Reduxがやはり重い。。。
+- 復習していこう
+
+---
+
 ## ReactContextの学習
 
 ### Day 013: 2020/02/04
@@ -379,4 +404,4 @@
 
 **ポートフォリオこんなの作るといいよ！**
 
-- ![画像](src/19915FF8-9203-4DB1-9E3A-946C7AA61D61.jpg)
+- ![画像](src/img/19915FF8-9203-4DB1-9E3A-946C7AA61D61.jpg)
